@@ -2,3 +2,7 @@ site_name: Rémi Delacourt
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Academic Notes: notes_page.md
