@@ -5,4 +5,4 @@ theme:
 
 nav:
   - Home: index.md
-  - Academic Notes: notes_page.md
+  - Academic Notes: notes.md
